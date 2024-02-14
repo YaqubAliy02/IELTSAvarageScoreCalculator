@@ -58,7 +58,7 @@ The program then prints the result: “Average score: {averageScore}”. 📊
 # 4. Demo
 
 
-![](../IELTSAvarageScoreCalculator/assets/images/dmemo2-ezgif.com-video-to-apng-converter.png)
+![](../IELTSAvarageScoreCalculator/assets/images/demo2.png)
 
 if you like this kind of simple projects you can see this git hub account: https://github.com/Yaqubaliy02.
 
