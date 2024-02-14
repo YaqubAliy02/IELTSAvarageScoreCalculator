@@ -18,8 +18,6 @@ AS explained on the IELTS website, overall test results are calulated to the nea
 * If your overall score is an average 6.2, your score will be increased to 6.5. The score 6.25 is actually precisely between band 6 and 6.5, so in this case IELTS will push it up to the nearest score which is 6.5
 * If your overall score is an average of 6.75, your score will be increased to 7. This score again is precisely between 6.5 and band 7. In this case, your score will be rounded up to band 7.
 
-
-
 # IELTS Avarage Score Calculator Program 
 # 1. Input data from User
 Listening Score Input: The program prompts the user to enter their listening score.
