@@ -10,8 +10,6 @@ All IELTS scores are between 0 and 9. You can also get .5 sores as well (for exa
 |:---------:| :--------:|:--------:|:---------:|:--------:|
 |    8      |   7.5   |   7     |    7.5   |  7.5    | 
 
-
-
 AS explained on the IELTS website, overall test results are calulated to the nearest 0.5 or nearest whole band score. This means if the final score is not a precise 7.5 (as shown in the table above), your score is pushed to the nearest whole score or half score depending which is nearest. Below you can see examples of how this works according to IELTS.
 
 * If your overall score is 6.1 you score will go down to 6. This is the nearest whole band score. In other words, 6.1 is closer ot band 6 than to 6.5
@@ -52,14 +50,9 @@ Otherwise, the remainder is rounded up to the next whole number.
 Final Average Score: The integer part of the average score is added to the rounded remainder to obtain the final average IELTS score.
 The program then prints the result: “Average score: {averageScore}”. 📊
 
-
 ![](../IELTSAvarageScoreCalculator/assets/images/calculteAverageScore.png)
 
 # 4. Demo
-
-
 ![](../IELTSAvarageScoreCalculator/assets/images/d2.png)
 
 if you like this kind of simple projects you can see this git hub account: https://github.com/Yaqubaliy02.
-
-
