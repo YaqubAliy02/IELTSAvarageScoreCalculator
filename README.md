@@ -28,7 +28,7 @@ Speaking Score Input: The program collects the speaking score from the user.
 
 Writing Score Input: Finally, the user is prompted to provide their writing score.
 
-![demo](../IELTSAvarageScoreCalculator/assets/images/inputuser.png)
+![demo2](../IELTSAvarageScoreCalculator/assets/images/inputuser.png)
 
 # 2. Converting all data to decimal type
 Reading Score: The readingScoreInput is converted to a decimal and added to the scores array.
@@ -36,7 +36,7 @@ Listening Score: Similarly, the `listeningScoreInput` is converted and included 
 Writing Score: The `writingScoreInput` is also converted and appended to the scores.
 Speaking Score: Lastly, the `speakingScoreInput` is converted and added to the scores.
 
-![demo](../IELTSAvarageScoreCalculator/assets/images/convert.png)
+![demo3](../IELTSAvarageScoreCalculator/assets/images/convert.png)
 
 # 3. Calculating average score
 Average Calculation: The average IELTS score is computed using the Average() method on the scores array.
@@ -51,6 +51,6 @@ The program then prints the result: “Average score: {averageScore}”. 📊
 ![](../IELTSAvarageScoreCalculator/assets/images/calculteAverageScore.png)
 
 # 4. Demo
-<!-- ![demo](../IELTSAvarageScoreCalculator/assets/images/d2.png) -->
+![demo4](../IELTSAvarageScoreCalculator/assets/images/d2.png)
 
 if you like this kind of simple projects you can see this git hub account: https://github.com/Yaqubaliy02.
