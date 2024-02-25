@@ -51,6 +51,6 @@ The program then prints the result: “Average score: {averageScore}”. 📊
 ![](../IELTSAvarageScoreCalculator/assets/images/calculteAverageScore.png)
 
 # 4. Demo
-![demo](../IELTSAvarageScoreCalculator/assets/images/d2.png)
+<!-- ![demo](../IELTSAvarageScoreCalculator/assets/images/d2.png) -->
 
 if you like this kind of simple projects you can see this git hub account: https://github.com/Yaqubaliy02.
